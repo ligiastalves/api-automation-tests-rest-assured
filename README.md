@@ -1,2 +1,4 @@
-# api-automation-tests-rest-assured
-Projeto "Explorando o Rest Assured para a automação de testes de API". Esse projeto coloca em pratica os conhecimentos aprendido durante o bootcamp GFT QA da DIO, utilizando Postman, Rest Assured e Allure Framework
+## Desafio - Explorando o Rest Assured Para a Automação de Testes de API
+
+
+O desafio da DIO "Explorando o Rest Assured Para a Automação de Testes de API" tem como objetivo ajudar os alunos a aprender como usar o Rest Assured para automatizar testes de API em Java. O desafio é composto por várias etapas que envolvem a criação de testes de API para um serviço RESTful simulado.
